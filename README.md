@@ -33,9 +33,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### stuff for life 
 
-- eatthismuch.com
+- eatthismuch.com <br>
 &nbsp; getting your eating habits together was never been easier. you are not bound to your subscription box, or you 'years of pandemic' tormented mindless imagination. this website is bringing you appetite back on the table. 
-- web.extension.illinois.edu/stain
+- web.extension.illinois.edu/stain <br>
 &nbsp; if you're anything like me, you have spilled stuff. and you went to websites that told you how to fix it - spoiler alert: the spill is still there. chances are that will happen again. maybe, the university of illinois can help you (like for real, with propably any stain imaginable). 
 - ninite.com
 
