@@ -60,7 +60,7 @@ sure, "cutepicturesofbabydogs.exe" is probably exactly that. just if you want to
 remember the bitcoin promising link? here's a way to check beforehand.<br><br>
 - [temp mail](https://temp-mail.org/en/) or [10minutemail](www.10minutemail.com)<br>
 funny story. it has become incredibly hard to register new mail aliases. just for that one annoying website? here you go. temporary mail accounts for the non-iOS folks.<br><br>
-- [snapdrop](https://snapdrop.net/)
+- [snapdrop](https://snapdrop.net/)<br>
 airdrop for everybody. just hang around in the same wifi with your devices. end that whatsapp compressed shit.<br><br>
 - [accountkiller](www.accountkiller.com)<br>
 you want to get rid of your onlyfans account? didn't work out? thats okay. here is the step by step manual to break free of account chains young and old.<br><br>
