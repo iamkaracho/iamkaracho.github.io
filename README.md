@@ -43,9 +43,9 @@ well, don't ask me. let this website answer that for you. <br><br>
 ever stuck on a computer loop when trying to reach a rep from a company? here's to skipping the boring part. and to get a human on that damn phone!<br><br>
 - [camel camel camel](https://camelcamelcamel.com/)<br>
 take that, amazon. with camel³, you have a transparent way on tracking amazon pricing. and get your hopes smashed by understanding that your last purchase wasn't a sweet, sweet deal. <br><br>
--[explore livecams](https://explore.org/livecams)<br>
+- [explore livecams](https://explore.org/livecams)<br>
 here's a zoom call anyone can agree on. everyone shuts up and you can watch animals small to big, tiny to grown up, minding their own business. end of the story.<br><br>
--[plan your room](www.planyourroom.com)<br>
+- [plan your room](www.planyourroom.com)<br>
 if you find yurself looking at your livingspace or switchen spaces, heres an online tetris simulator for your place.<br><br>
 - [just the recipe](https://www.justtherecipe.com/)<br>
 okay karen, i get it. your trip to italy was lifechanging. right next to the tourist trap winery, you've found the tourist trap restaurant with that super handsome waitress. for a moment, you were questioning your sexuality. but minutes later, you fell in love with pasta carbonara. and ever since, you tried to recreate the dish. just skip the part. get down ~~to business~~ the recipe.<br><br>
