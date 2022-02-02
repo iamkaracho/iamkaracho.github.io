@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: syllabus of a weird wide web.
 description: this is it. a relay station to useful resources across the web. please share. <br> <br> <b>all tools are what they are</b>. i did not fully check their origin, i am not maintaining them. everything you enter there, could be read by a third party. <b>so please don't upload your full product roadmap to compress pdf</b>
+
+navbar-links:
+  About: "about"
