@@ -49,6 +49,8 @@ here's a zoom call anyone can agree on. everyone shuts up and you can watch anim
 if you find yurself looking at your livingspace or switchen spaces, heres an online tetris simulator for your place.<br><br>
 - [just the recipe](https://www.justtherecipe.com/)<br>
 okay karen, i get it. your trip to italy was lifechanging. right next to the tourist trap winery, you've found the tourist trap restaurant with that super handsome waitress. for a moment, you were questioning your sexuality. but minutes later, you fell in love with pasta carbonara. and ever since, you tried to recreate the dish. just skip the part. get down ~~to business~~ to the recipe.<br><br>
+- [darebee](https://darebee.com/)<br>
+cancel your gym membership and your app-subscription. here is everything you need, for free.<br><br>
 
 ## living digitally
 
