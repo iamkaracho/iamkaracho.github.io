@@ -58,6 +58,8 @@ i don't know, have you? hopefully not. but if you by accident clicked that link 
 sure, "cutepicturesofbabydogs.exe" is probably exactly that. just if you want to make sure it's virus free, go here please.<br><br>
 - [urlscan](https://www.urlscan.io)<br>
 remember the bitcoin promising link? here's a way to check beforehand.<br><br>
+- [discord communities](https://github.com/mhxion/awesome-discord-communities#readme)<br>
+so, yeah. heard about discord? its the 90s all over again, but now in cool. here are a few communities to break into.<br><br>
 - [temp mail](https://temp-mail.org/en/) or [10minutemail](www.10minutemail.com)<br>
 funny story. it has become incredibly hard to register new mail aliases. just for that one annoying website? here you go. temporary mail accounts for the non-iOS folks.<br><br>
 - [snapdrop](https://snapdrop.net/)<br>
