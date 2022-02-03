@@ -15,7 +15,7 @@ another boring zoom meeting? your doodles are now a full fledged avengers squad 
 another fact that floors me. how fucking complicated are subtitles? allegedly we have ultra smart AIs that drive cars, but can't build subtitles? here, getsubly tries it.<br>
 
 - [vocalremover](https://www.vocalremover.org)<br>
-the punchline talkes about powerful ai algorithms. do you even need more? and it does what it says. with. powerful. ai. algorithms.
+the punchline talks about powerful ai algorithms. do you even need more? and it does what it says. with. powerful. ai. algorithms.
 
 - [descript](https://www.descript.com/)<br>
 i am flabbergasted. like everyday. the fact that it still a work of wonders to edit videos consumes me. descript tries to change that. please go and look at it. it's smart.<br>
