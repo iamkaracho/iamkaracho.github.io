@@ -1,3 +1,91 @@
+## video & animation
+
+- [veed.io](https://www.veedio)<br>
+look. if you were an adobe afficionado or a final cut maestro, you wouldn't be here in the first place. it's a online video solution. you probably shouldn't cut your entry into hollywood with it.
+
+- [jitter](https://jitter.video/)<br>
+here's to the powerpoint warriors. to the selfcontainend linkedin riders. make an animation with jitter, cherry to your cake.
+
+- [sketch](https://sketch.metademolab.com/)<br>
+another boring zoom meeting? your doodles are now a full fledged avengers squad with personae? with skech you can animate them. take that, company forecast.<br><br>
+
+## voice & audio
+
+- [getsubly.org](http://www.getsubly.org)<br>
+another fact that floors me. how fucking complicated are subtitles? allegedly we have ultra smart AIs that drive cars, but can't build subtitles? here, getsubly tries it.<br>
+
+- [vocalremover](https://www.vocalremover.org)
+the punchline talkes about powerful ai algorithms. do you even need more? and it does what it says. with. powerful. ai. algorithms.
+
+- [descript](https://www.descript.com/)<br>
+i am flabbergasted. like everyday. the fact that it still a work of wonders to edit videos consumes me. descript tries to change that. please go and look at it. it's smart.<br>
+
+- [podcastle](https://podcastle.ai/)<br>
+again. subtitles. agaaaaain. it works. 
+
+- [uberduck](https://uberduck.ai/)<br>
+now we're talking. like literally. with a large set of voices. it's not perfect, it just does it. *yoda voice*
+
+- [speak](https://speak.streams.live/)<br>
+same as uberduck, without the fuzz.
+
+- [youdj](https://you.dj/de)<br>
+yes. we know it. what could have been. you and the 1210s. you and the epicness of the last office party - thanks to your spotify. (and the fact that you've defended the aux cable with your life!). please go ahead and become a dj. we all need a bit of midlife crisis. 
+
+- [onlinesequencer](https://onlinesequencer.net/)<br>
+after you've perfected your dj mastery, it's time to create your own beat. your own rythm. your audio trademark. (works even during that boring zoom call).
+
+- [who sampled](https://www.whosampled.com/)<br>
+the be and end all to music knowledge. you want to become even more annoying, beyond your fast wikipedia skills? here you go, a dictionary of all samples. good luck.
+
+## graphic & image
+
+- [canva](https://www.canva.com/de_de/)<br>
+i dont know. if you haven't heard about canva, i am honestly suprised you've found your way here. canva probably the biggest threat to average joe / jane photoshop. 
+
+- [pexels](https://www.pexels.com) & [unsplash](https://www.unsplash.com)<br>
+you dont know pexel and unsplash either? still struggeling to get your powerpoint with power to the point? here are the images you need. for free. no questions asked.
+
+- [pixelhunter](https://pixelhunter.io/)<br>
+you have your cute doggo picture fresh off canva? cool, here's to multiply across. all. your. socialmedia. with one click. 
+
+- [cleanup.pictures](http://cleanup.pictures)<br>
+working from home? asked to deliver as selfie? forgot to remove the trash? here's to clean that up. 
+
+- [mega creator](https://icons8.com/mega-creator)<br>
+it calls itself mega creator. who doesnt want to have mega creator in the skills section of their resumes? its kinda photoshop meets stock images from hell. 
+
+- [removebg](http://removebg.com)<br>
+remember the trashcan in the background of your selfie? well, if your whole flat is the trashcan, its best to remove the whole background. i am not judging.
+
+- [cleanpng](https://www.cleanpng.com)<br>
+i don't know google, where have you gone wrong? you claim that you are really smart. but still, your image search delivers fake pngs. who got time for that? here's a better idea - a clean png database. 
+
+- [excalidraw](https://excalidraw.com/)<br>
+there are people in this world that really love diagrams and flowcharts - and then there a designers. for everyone in between, excalidraw is worth a look. 
+
+- [photopea](https://www.photopea.com/)<br>
+i don't know. someone built a clone of photoshop in the browser. it also eats .psd files. is nothing sacred anymore?
+
+- [noun project](www.thenounproject.com)<br>
+the web should be more democratic. i still dont get why i have to image search logos, icons and shit. probably because i didnt know of the noun project. whats next? the verb mission?
+
+- [fotoforensics](https://fotoforensics.com/)<br>
+bit shady. but again, if you ever wanted to know, if karen really was in italy last fall, heres a way to dig around. 
+
+- [adobe color](color.adobe.com/create)<br>
+build color palettes. have your kid building color palettes. dont forget the red wine as palette cleanser for your palettes. be that myagi of palettes.
+
+- [palettable](https://www.palettable.io/)<br>
+same as adobe. only simpler. could be a funny effect during your next zoom call. 
+
+- [ai art](https://ai-art.tokyo/en/)<br>
+what could we do with ai if ai would do real world applications? i dont know. for know, i am trying to get myself in the louvre as classical painting.
+
+- [pixelmap](https://pixelmap.amcharts.com/#)<br>
+deconstruct maps until they are something completely different. an out of the box experience. you could sink hours in here, for little to no effect for your workflow. but otherwise, it wouldn't be fun, would it?
+
+
 ## stuff for life 
 
 - [eat this much](https://www.eatthismuch.com) <br>
@@ -20,6 +108,9 @@ okay karen, i get it. your trip to italy was lifechanging. right next to the tou
 cancel your gym membership and your app-subscription. here is everything you need, for free.<br><br>
 
 ## living digitally
+
+- [tinywow](www.tinywow.com) &  [ilovepdf](https://www.ilovepdf.com/de).
+let's be honest. you and me, we are average janes and joes. here's the complete kit to survive corporate utopia. (and who in the living hell LOVES pdfs?)
 
 - [have i been pwned?](https://www.haveibeenpwned.com)<br>
 i don't know, have you? hopefully not. but if you by accident clicked that link promising you a bitcoin fortune, here's a way to find it out. <br><br>
