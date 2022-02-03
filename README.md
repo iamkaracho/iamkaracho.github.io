@@ -109,7 +109,7 @@ cancel your gym membership and your app-subscription. here is everything you nee
 
 ## living digitally
 
-- [tinywow](www.tinywow.com) &  [ilovepdf](https://www.ilovepdf.com/de).
+- [tinywow](www.tinywow.com) &  [ilovepdf](https://www.ilovepdf.com/de).<br>
 let's be honest. you and me, we are average janes and joes. here's the complete kit to survive corporate utopia. (and who in the living hell LOVES pdfs?)
 
 - [have i been pwned?](https://www.haveibeenpwned.com)<br>
