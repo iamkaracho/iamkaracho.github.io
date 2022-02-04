@@ -159,7 +159,7 @@ buzzfeed brought the listicle. buzzfeed also made cheatsheets popular (don't quo
 - [class central certificates](https://www.classcentral.com/report/free-certificates/)<br>
 imagine going to harvard, stanford, cambridge and NYU all at the same time. from your couch. in your sweatpants. you go! you go!<br><br>
 - [namechk](https://namechk.com/)<br>
-ever thought of becoming someone else, albeit only virtually? here's an easy way to check if "hannelore mcmolligang" is already taken.<br><br>
+ever thought of becoming someone else, albeit only virtually? here's an easy way to check if "hannelore mcmolligang" is already taken.<br>
 
 - [16personalities](https://www.personalities.com)<br>
 you probably came across these weird four letter codes in your tinder-doomswipe. it's from here. it's something between tarot and real psychology. give or take.
