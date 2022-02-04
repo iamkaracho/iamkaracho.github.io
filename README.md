@@ -52,7 +52,7 @@ you have your cute doggo picture fresh off canva? cool, here's to multiply acros
 - [socialsizes](https://socialsizes.io/)<br>
 same as pixelhunter, only for offline usage. so for the conspiracy theorist among thee, put on your tinfoils and off you go.  
 
--[mockuphone](https://mockuphone.com/)<br>
+- [mockuphone](https://mockuphone.com/)<br>
 so you've multiplied your pictures? but for that vc funds, they tell you to create a mockup? here. dont fizzle with photoshop.
 
 - [cleanup.pictures](http://cleanup.pictures)<br>
