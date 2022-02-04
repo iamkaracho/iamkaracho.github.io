@@ -76,6 +76,9 @@ i don't know. someone built a clone of photoshop in the browser. it also eats .p
 - [noun project](www.thenounproject.com)<br>
 the web should be more democratic. i still dont get why i have to image search logos, icons and shit. probably because i didnt know of the noun project. whats next? the verb mission?
 
+- [lofi generator](https://lofirecords.com/pages/lofigirl-generator)<br>
+okay, you#re late to the party, and discovered lofi music. you want to play with the cool kids? here's for that slack profile pic of yours. 
+
 - [fotoforensics](https://fotoforensics.com/)<br>
 bit shady. but again, if you ever wanted to know, if karen really was in italy last fall, heres a way to dig around. 
 
