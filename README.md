@@ -7,7 +7,7 @@ look. if you were an adobe afficionado or a final cut maestro, you wouldn't be h
 here's to the powerpoint warriors. to the selfcontainend linkedin riders. make an animation with jitter, cherry to your cake.
 
 - [sketch](https://sketch.metademolab.com/)<br>
-another boring zoom meeting? your doodles are now a full fledged avengers squad with personae? with sketch you can animate them. take that, company forecast.<br><br>
+another boring zoom meeting? your doodles are now a full fledged avengers squad with personae? with sketch you can animate them. take that, company forecast.
 
 - [streamable](https://www.streamable.com)<br>
 cut my video into pieces, it is my last resort. but do it open source, gif-able, please. okay, buttercup. 
