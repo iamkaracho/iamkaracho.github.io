@@ -101,7 +101,7 @@ take that, amazon. with camel³, you have a transparent way on tracking amazon p
 - [explore livecams](https://explore.org/livecams)<br>
 here's a zoom call anyone can agree on. everyone shuts up and you can watch animals small to big, tiny to grown up, minding their own business. end of the story.<br><br>
 - [plan your room](https://www.planyourroom.com)<br>
-if you find yurself looking at your livingspace or switchen spaces, heres an online tetris simulator for your place.<br><br>
+if you find yurself looking at your livingspace or switching spaces, heres an online tetris simulator for your place.<br><br>
 - [just the recipe](https://www.justtherecipe.com/)<br>
 okay karen, i get it. your trip to italy was lifechanging. right next to the tourist trap winery, you've found the tourist trap restaurant with that super handsome waitress. for a moment, you were questioning your sexuality. but minutes later, you fell in love with pasta carbonara. and ever since, you tried to recreate the dish. just skip the part. get down ~~to business~~ to the recipe.<br><br>
 - [darebee](https://darebee.com/)<br>
