@@ -127,7 +127,7 @@ cancel your gym membership and your app-subscription. here is everything you nee
 - [tinywow](www.tinywow.com) &  [ilovepdf](https://www.ilovepdf.com/de).<br>
 let's be honest. you and me, we are average janes and joes. here's the complete kit to survive corporate utopia. (and who in the living hell LOVES pdfs?)
 
-[12ft](https://12ft.io)<br>
+- [12ft](https://12ft.io)<br>
 paywalls. paywalls all around me. if only i had a ladder. hmhm.
 
 - [have i been pwned?](https://www.haveibeenpwned.com)<br>
