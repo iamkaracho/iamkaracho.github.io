@@ -9,6 +9,9 @@ here's to the powerpoint warriors. to the selfcontainend linkedin riders. make a
 - [sketch](https://sketch.metademolab.com/)<br>
 another boring zoom meeting? your doodles are now a full fledged avengers squad with personae? with sketch you can animate them. take that, company forecast.<br><br>
 
+- [streamable](https://www.streamable.com)<br>
+cut my video into pieces, it is my last resort. but do it open source, gif-able, please. okay, buttercup. 
+
 ## voice & audio
 
 - [getsubly.org](http://www.getsubly.org)<br>
@@ -43,8 +46,8 @@ the be and end all to music knowledge. you want to become even more annoying, be
 - [canva](https://www.canva.com/de_de/)<br>
 i dont know. if you haven't heard about canva, i am honestly suprised you've found your way here. canva probably the biggest threat to average joe / jane photoshop. 
 
-- [pexels](https://www.pexels.com) & [unsplash](https://www.unsplash.com)<br>
-you dont know pexel and unsplash either? still struggeling to get your powerpoint with power to the point? here are the images you need. for free. no questions asked.
+- [pexels](https://www.pexels.com), [unsplash](https://www.unsplash.com) & [pixabay](https://www.pixabay.com)<br>
+you dont know pexel, pixabay and unsplash either? still struggeling to get your powerpoint with power to the point? here are the images you need. for free. no questions asked. (also, stock video).
 
 - [pixelhunter](https://pixelhunter.io/)<br>
 you have your cute doggo picture fresh off canva? cool, here's to multiply across. all. your. socialmedia. with one click. 
@@ -124,6 +127,9 @@ cancel your gym membership and your app-subscription. here is everything you nee
 - [tinywow](www.tinywow.com) &  [ilovepdf](https://www.ilovepdf.com/de).<br>
 let's be honest. you and me, we are average janes and joes. here's the complete kit to survive corporate utopia. (and who in the living hell LOVES pdfs?)
 
+[12ft](https://12ft.io)<br>
+paywalls. paywalls all around me. if only i had a ladder. hmhm.
+
 - [have i been pwned?](https://www.haveibeenpwned.com)<br>
 i don't know, have you? hopefully not. but if you by accident clicked that link promising you a bitcoin fortune, here's a way to find it out. <br><br>
 - [virus total](https://www.virustotal.com)<br>
@@ -154,3 +160,6 @@ buzzfeed brought the listicle. buzzfeed also made cheatsheets popular (don't quo
 imagine going to harvard, stanford, cambridge and NYU all at the same time. from your couch. in your sweatpants. you go! you go!<br><br>
 - [namechk](https://namechk.com/)<br>
 ever thought of becoming someone else, albeit only virtually? here's an easy way to check if "hannelore mcmolligang" is already taken.<br><br>
+
+- [16personalities](https://www.personalities.com)<br>
+you probably came across these weird four letter codes in your tinder-doomswipe. it's from here. it's something between tarot and real psychology. give or take.
