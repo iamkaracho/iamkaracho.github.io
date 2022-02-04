@@ -49,6 +49,12 @@ you dont know pexel and unsplash either? still struggeling to get your powerpoin
 - [pixelhunter](https://pixelhunter.io/)<br>
 you have your cute doggo picture fresh off canva? cool, here's to multiply across. all. your. socialmedia. with one click. 
 
+- [socialsizes](https://socialsizes.io/)<br>
+same as pixelhunter, only for offline usage. so for the conspiracy theorist among thee, put on your tinfoils and off you go.  
+
+-[mockuphone](https://mockuphone.com/)<br>
+so you've multiplied your pictures? but for that vc funds, they tell you to create a mockup? here. dont fizzle with photoshop.
+
 - [cleanup.pictures](http://cleanup.pictures)<br>
 working from home? asked to deliver as selfie? forgot to remove the trash? here's to clean that up. 
 
@@ -78,6 +84,9 @@ build color palettes. have your kid building color palettes. dont forget the red
 
 - [palettable](https://www.palettable.io/)<br>
 same as adobe. only simpler. could be a funny effect during your next zoom call. 
+
+- [coolers](https://coolors.co/)<br>
+color palettes seem to be a thing. probably a kink. 
 
 - [ai art](https://ai-art.tokyo/en/)<br>
 what could we do with ai if ai would do real world applications? i dont know. for know, i am trying to get myself in the louvre as classical painting.
