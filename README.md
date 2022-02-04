@@ -1,6 +1,6 @@
 ## video & animation
 
-- [veed.io](https://www.veedio)<br>
+- [veed.io](https://www.veed.io)<br>
 look. if you were an adobe afficionado or a final cut maestro, you wouldn't be here in the first place. it's a online video solution. you probably shouldn't cut your entry into hollywood with it.
 
 - [jitter](https://jitter.video/)<br>
